@@ -2,17 +2,22 @@
     "name": "totti619/laravel-gallery",
     "description": "A Photo Gallery made for Laravel",
     "type": "project",
+    "keywords": [
+        "laravel",
+        "autocomplete",
+        "phpstorm",
+        "phpdoc",
+        "gallery"
+    ],
     "license": "MIT",
     "authors": [
         {
             "name": "Antonio Ortiz",
             "email": "619totti@gmail.com"
-        },
-        {
-            "name": "iMenorca - Serveis Informátics",
-            "email": "info@imenorca.info"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
